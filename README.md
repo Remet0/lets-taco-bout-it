@@ -18,7 +18,7 @@ During the preproduction phase of this project we as a group came up with a deta
 [Project Outline](https://docs.google.com/document/d/108-7YvqwiA2VUZMrRoRoF0cfLdYyeEbNMxVX9u3ungY/edit?ts=5d2550d0)
 
 ## Technologies
-HTML, Sass, CSS, Javascript
+HTML, Sass, CSS, Javascript, Express, Node
 
 ## Authors
 Zach Murphy, John Remeto, Nich Secord, Austin Robbins
